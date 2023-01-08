@@ -1,0 +1,20 @@
+Taken, Name
+Y, Tabby
+Y, Tab Buddy
+Y, Zen tab
+N, Tab Zen
+N, Tabvana
+Y, Grouper ** very similar
+Y, Tab Groupie ** very similar      
+Y, Auto Tab Groups
+Y, TabFlow
+Y, TabMan
+Y, Tabbr
+N, Tabology
+Y, Tab Heaven
+N, Tab Bliss / Tabliss / TaBliss
+N, Organitabs
+Y, TabSort
+N, Tableau
+N, TabBoss
+Y, TabMaster
