@@ -2,7 +2,7 @@ Taken, Name
 Y, Tabby
 Y, Tab Buddy
 Y, Zen tab
-N, Tab Zen
+Y, Tab Zen
 N, Tabvana
 Y, Grouper ** very similar
 Y, Tab Groupie ** very similar      
@@ -18,3 +18,30 @@ Y, TabSort
 N, Tableau
 N, TabBoss
 Y, TabMaster
+Y, ReTab
+N, Tab Wizard <--------
+N, TabWiz <------------
+Y, Magic Tabs
+N, Tab Magic
+N, Tab Sight
+N, Tab Stream
+N, Fab Tab
+N, Fantabulous
+N, Tab Adept
+Y, TabX
+Y, Detab
+Y, TidyTabs
+N, Tab Order <---------
+N, Tab Nanny
+N, Tab Director
+N, Tab Conductor
+N, Conductabs
+N, Tab Machine <-------
+Y, Tab Organizer
+N, Taborg
+Y, Sortabs
+N, Tab Harmony <-------
+N, Proper Tabs
+N, Tranquil Tabs
+N, Tranquilitab
+N, Tab Joy
